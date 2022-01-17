@@ -73,5 +73,3 @@ The training component of this model is complete up to input shape to be determi
 Paper abstracts are inputs to the encoder, while titles are inputs to the decoder. On a later component of the model summarizations are generated from a holdout set of abstracts.
 
 Preprocessing includes the standard stopwords and tokenization, but adds a further step of encoding and padding. Padding is necessary to homogenize abstract and title lengths.
-
-Thank you!
